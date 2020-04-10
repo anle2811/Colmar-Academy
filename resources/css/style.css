@@ -293,7 +293,7 @@ footer{
     margin: 0 14px;
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 1090px){
     .desktop-header{
         display: none;
     }
